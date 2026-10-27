@@ -7,7 +7,7 @@ Evaluación centrada en el control transaccional, atomicidad, manejo de errores,
 ## 🛠️ 1. Entorno y Prerrequisitos
 * **Motor de Base de Datos:** PostgreSQL 18
 * **Cliente SQL:** DataGrip / psql
-* **Base de Datos:** Variante oficial de Chinook (`Chinook_PostgreSql_SerialPKs.sql`)
+* **Base de Datos:** Variante oficial de Chinook https://github.com/lerocha/chinook-database (`Chinook_PostgreSql_SerialPKs.sql`)
 
 ---
 
